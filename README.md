@@ -75,14 +75,6 @@ Este proyecto aplica arquitectura por capas, Entity Framework Core, SQL Server, 
 
 Repositorio: [StockFlow API](https://github.com/Nicolas-Aguilar/StockFlow-API)
 
----
-## Actualmente profundizando
-
-- Validaciones y manejo de errores en APIs backend
-- Pruebas automatizadas
-- Arquitectura por capas
-- Diseño de bases de datos relacionales
-- Buenas prácticas para proyectos .NET
 
 
 ---
