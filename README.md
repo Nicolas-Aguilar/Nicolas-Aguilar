@@ -20,30 +20,27 @@
 
 ## Sobre mí
 
-Soy estudiante de **Tecnologías de la Información y la Comunicación**, con interés en el desarrollo de software, especialmente en el área backend.
+Soy estudiante de **Tecnologías de la Información y la Comunicación**, enfocado en el desarrollo backend y la creación de soluciones basadas en datos.
 
-Me gusta construir soluciones que conecten la lógica de negocio con bases de datos, APIs y servicios bien estructurados. Actualmente estoy fortaleciendo mis habilidades en **C#**, **.NET**, **ASP.NET Core**, **SQL Server** y buenas prácticas de desarrollo.
+Me interesa construir APIs REST bien estructuradas, conectar lógica de negocio con bases de datos y aplicar buenas prácticas de desarrollo. Actualmente estoy fortaleciendo mis habilidades con **C#**, **.NET**, **ASP.NET Core**, **Entity Framework Core** y **SQL Server**.
 
-También me interesa comprender cómo se diseñan aplicaciones mantenibles, seguras y escalables, aplicando conceptos como arquitectura por capas, validaciones, autenticación, pruebas y documentación técnica.
+También me interesa el diseño de aplicaciones mantenibles, seguras y escalables, aplicando conceptos como arquitectura por capas, autenticación, validaciones, pruebas y documentación técnica.
 
 ---
 
-## Tecnologías y herramientas
+## Stack principal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,docker,html,css,js" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/API_REST-02569B?style=flat-square" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/xUnit-512BD4?style=flat-square" />
 </p>
 
 ---
@@ -51,13 +48,11 @@ También me interesa comprender cómo se diseñan aplicaciones mantenibles, segu
 ## Enfoque actual
 
 - Desarrollo backend con **C# y .NET**
-- Creación de **APIs REST** con ASP.NET Core
-- Modelado y gestión de bases de datos con **SQL Server**
-- Uso de **Entity Framework Core**
-- Autenticación con **JWT**
-- Documentación de APIs con **Swagger**
+- Diseño de **APIs REST** con ASP.NET Core
+- Modelado de datos con **SQL Server** y Entity Framework Core
+- Autenticación y autorización con **JWT**
 - Pruebas unitarias e integración
-- Control de versiones con **Git y GitHub**
+- Buenas prácticas con Git, GitHub y documentación técnica
 
 ---
 
@@ -65,71 +60,30 @@ También me interesa comprender cómo se diseñan aplicaciones mantenibles, segu
 
 ### StockFlow API
 
-API REST backend desarrollada con **.NET 8** para la gestión de productos, inventario, ventas, reportes y autenticación.
+API REST backend desarrollada con **.NET 8** para gestionar productos, inventario, ventas, reportes y autenticación.
 
-Este proyecto aplica conceptos como arquitectura por capas, Entity Framework Core, SQL Server, JWT, Swagger, Docker y pruebas automatizadas.
+Este proyecto aplica arquitectura por capas, Entity Framework Core, SQL Server, JWT, Swagger, Docker y pruebas automatizadas.
+
+**Aspectos destacados:**
+
+- Gestión de productos, categorías, inventario y ventas.
+- Autenticación con JWT.
+- Descuento automático de stock al registrar ventas.
+- Reportes de ventas e inventario.
+- Documentación con Swagger.
+- Pruebas automatizadas.
 
 Repositorio: [StockFlow API](https://github.com/Nicolas-Aguilar/StockFlow-API)
 
 ---
+## Actualmente profundizando
 
-## Aprendiendo y mejorando
-
-Actualmente sigo fortaleciendo mis conocimientos en:
-
-- Buenas prácticas en desarrollo backend
-- Diseño de APIs limpias y mantenibles
-- Validaciones y manejo de errores
+- Validaciones y manejo de errores en APIs backend
 - Pruebas automatizadas
-- Arquitectura de software
-- Bases de datos relacionales
+- Arquitectura por capas
+- Diseño de bases de datos relacionales
+- Buenas prácticas para proyectos .NET
 
----
-
-
-
-## Stack tecnológico
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
-### Bases de datos
-
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-### APIs, seguridad y documentación
-
-<p>
-  <img src="https://img.shields.io/badge/API_REST-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-</p>
-
-### Herramientas
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
-### Conocimientos complementarios
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
 
 ---
 
