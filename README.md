@@ -86,7 +86,7 @@ Actualmente sigo fortaleciendo mis conocimientos en:
 
 ---
 
----
+
 
 ## Stack tecnológico
 
